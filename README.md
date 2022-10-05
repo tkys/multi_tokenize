@@ -2,6 +2,7 @@
 トークナイザをいくつかまとめたもの
 
 - Sudachi:日本語形態素解析器
+- - Sudachi辞書のバージョンを更新するとそれまでの分割結果と差異がでる可能性があります
 - N-gram 
 - ICU: Unicodeで規定された単語分割器`icu::BreakIterator`のPythonラッパー`PyICU`で分割
   - `PyICU`のICU辞書とUnicodeの最新バージョンでのICU辞書はバージョンが異なる場合に分割結果に差異があります
