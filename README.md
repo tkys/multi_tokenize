@@ -1,4 +1,4 @@
-# multi-tokenize
+# multi_tokenize
 トークナイザをいくつかまとめたもの
 
 - Sudachi:日本語形態素解析器
