@@ -14,7 +14,7 @@
 ### Install
 
 ```
-pip install git+https://github.com/tkys/multi-tokenize.git
+pip install git+https://github.com/tkys/multi_tokenize.git
 ```
 
 ### Quick start
